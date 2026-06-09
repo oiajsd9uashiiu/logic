@@ -6,7 +6,7 @@
       [10.3, 64, "Power Supply"]
     ],
     "loutputs": [
-      [8, 64,""]
+      [64, 8,""]
     ],
     "pinputs": [],
     "poutputs": []
