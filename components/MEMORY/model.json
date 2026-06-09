@@ -2,12 +2,12 @@
   "size": [2,2],
   "nodes": {
     "linputs": [
-      [42.67, 120],
-      [85.33, 120],
-      [10.3, 64]
+      [42.67, 120, "Signal to keep outputting"],
+      [85.33, 120, "Signal to reset memory"],
+      [10.3, 64, "Power Supply"]
     ],
     "loutputs": [
-      [8, 64]
+      [8, 64,""]
     ],
     "pinputs": [],
     "poutputs": []
