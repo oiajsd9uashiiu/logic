@@ -1,0 +1,14 @@
+{
+  "size": [2,2],
+  "nodes": {
+    "linputs": [
+      [64, 120,""],
+      [10.3, 64, "Power Supply"]
+    ],
+    "loutputs": [
+      [8, 64,""]
+    ],
+    "pinputs": [],
+    "poutputs": []
+  }
+}
