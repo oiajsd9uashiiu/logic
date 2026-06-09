@@ -1,2 +1,2 @@
 # logic
-Industrialist Logic Sim (totally not vibecoded)
+Industrialist Logic Sim (actually not vibecoded)
